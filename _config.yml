@@ -29,16 +29,16 @@ force-https: True
 
 lang: "en"
 author: "Al Qaws Team"
-title: "{ Al Qaws }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+title: "Al Qaws | القوس" # "{ Al Qaws }"
+description: "Competitive Pricing Intelligence to help companies outmanoeuvre competition."
 keywords: "competitive pricing, pricing, retail, market, gcc, saudi arabia, dynamic pricing"
-favicon: "/img/favicon.ico"
+favicon: #"/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: #"/img/black-lab-glass.ico"
 
 background-img: "../img/intro-bg.jpg"
 
