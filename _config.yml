@@ -40,7 +40,7 @@ keywords: "competitive pricing, pricing, retail, market, gcc, saudi arabia, dyna
 
 #black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-photo6.jpeg" # "../img/intro-photo2.jpg"
+background-img: "../img/intro-photo6.jpeg" #"../img/intro-photo2.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -57,7 +57,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
- me-img: "/img/menu-down-arrow.png"
+ #me-img: "/img/menu-down-arrow.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
