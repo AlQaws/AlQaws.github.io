@@ -52,9 +52,9 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 1000 #3000
+delete-delay: 2000 #5000
 lines: # You can add HTML Tags in the Text
-  - text: "McKinsey Study: 'A price rise of 1% would generate an 8% increase in operating profits' <a href='https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-power-of-pricing' target='_blank'>(The power of pricing)</a>"
+  - text: "'A price rise of 1% would generate an 8% increase in operating profits' <a href='https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/the-power-of-pricing' target='_blank'>(McKinsey: The power of pricing)</a>"
   - text: "At times of fierce competition, Smart Pricing can help deliver the much needed push to sales"
   - text: "Smart & Optimal Pricing does not mean Low Pricing" #<a href='' target='_blank'>(The power of pricing)</a>"
   - text: "Smart Pricing demands knowledge of customer preferences, product value, and competitor strategies"
