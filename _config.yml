@@ -189,8 +189,8 @@ err-404-img: "/img/labtocat.png"
 ##################
 
 keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False #True
+keybase-in-footer: False #True
 
 ################################################################################
 
@@ -200,8 +200,8 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Timeline: 'timeline'
+  Blog: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
