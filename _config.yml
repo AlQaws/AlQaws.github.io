@@ -201,7 +201,7 @@ keybase-in-footer: False #True
 pages_list:
   About: 'about'
 #  Timeline: 'timeline'
-  Team: 'team'
+#  Team: 'team'
   Blog: 'latest-post'
   Contact: 'contact'
 
