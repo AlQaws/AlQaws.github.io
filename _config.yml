@@ -199,7 +199,7 @@ keybase-in-footer: False #True
 # Sections shown in the index page
 
 pages_list:
-#  About: 'about'
+  About: 'about'
 #  Timeline: 'timeline'
 #  Team: 'team'
   Blog: 'latest-post'
